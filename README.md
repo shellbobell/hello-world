@@ -1,2 +1,3 @@
 # hello-world
-Practicing GitHub Flow.
+<br />Practicing GitHub Flow.
+<br />About me: Learning to use GitHub for a career transition from Operational/Process Engineering to Data Analytics/Engineering. I have a background in database management, GIS, and mapping - I've worked in several sectors: health care, oil and gas, mining, and manufacturing.  I've always gravitated towards programming and automation.  I'm leaning towards data analytics because of the mesh between programming, analysis, critical-thinking, complex mathematics, statistics, organization, database management, and, of course, beautifying visualize for everyonet to understand the data. 
